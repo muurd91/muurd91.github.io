@@ -1,1 +1,8 @@
-[]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.muurd91.tabelsmeny",
+        "sha256_cert_fingerprints": ["66:0A:70:18:A1:F7:A6:C3:2D:09:25:6D:DB:C9:9F:3D:20:19:47:B8:BC:F5:19:EF:65:17:DC:B4:B2:EA:23:5A"]
+      }
+    }]
