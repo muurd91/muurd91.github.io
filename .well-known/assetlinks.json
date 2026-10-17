@@ -1,8 +1,26 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.muurd91.tabelsmeny",
-        "sha256_cert_fingerprints": ["66:0A:70:18:A1:F7:A6:C3:2D:09:25:6D:DB:C9:9F:3D:20:19:47:B8:BC:F5:19:EF:65:17:DC:B4:B2:EA:23:5A"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.muurd91.tabelsmeny",
+      "sha256_cert_fingerprints": [
+        "66:0A:70:18:A1:F7:A6:C3:2D:09:25:6D:DB:C9:9F:3D:20:19:47:B8:BC:F5:19:EF:65:17:DC:B4:B2:EA:23:5A"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.muurd91.zhurnal",
+      "sha256_cert_fingerprints": [
+        "AC:31:BC:C3:47:83:7F:C6:2D:2D:12:44:FE:BB:6E:A5:76:FB:A7:9E:2E:6F:DC:6E:54:42:FD:32:F5:BD:40:12"
+      ]
+    }
+  }
+]
